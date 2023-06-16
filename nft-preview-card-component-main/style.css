@@ -155,3 +155,8 @@ span:hover {
     color: var(--cyan);
     cursor: pointer;
 }
+
+.attribution a {
+    text-decoration: none;
+    color: rgb(157, 157, 185);
+}
